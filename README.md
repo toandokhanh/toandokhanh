@@ -1,2 +1,2 @@
-- 👋 Hi, I’m DoKhanhToan 
+- 👋 Hello !! I'm Do Khanh Toan! 🙏🏻
 - 👨‍🎓 I'm studying information systems at [Can Tho University](https://www.ctu.edu.vn/)
