@@ -22,6 +22,10 @@ class Toanvippro{
   }
 }
 
+
+
+```
+<!--
 class Skills extends Toanvippro {
   languages: string[]; frameworks: string[]; frontend: string[]; backend: string[]; mobile: sintrg[], other: string[]
   constructor() {
@@ -34,5 +38,4 @@ class Skills extends Toanvippro {
     this.other = ["Git/Github", "npm"]
   }
 }
-
-```
+--/>
