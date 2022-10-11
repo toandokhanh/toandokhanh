@@ -28,7 +28,7 @@ class Skills extends Toanvippro {
     super();
     this.languages = ["Javascript", "TypeScript", "SQL", "PHP"];
     this.frameworks = ["TailwindCSS", "Bootstrap"];
-    this.frontend = ["React", "HTML/CSS"];
+    this.frontend = ["React", "HTML/CSS", "Scss", ""];
     this.mobile = [""];
     this.backend = ["Laravel", "MySQL"];
     this.other = ["Git/Github", "npm"]
