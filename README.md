@@ -7,9 +7,9 @@ src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908
 👋 Hello !! I'm Do Khanh Toan! 🙏🏻     
 👨‍🎓 I'm studying information systems at [Can Tho University](https://www.ctu.edu.vn/) - K46    
 
-[![Gem Version](https://badge.fury.io/rb/colorls.svg)](https://github.com/toanvippro) 
-[![CI](https://github.com/athityakumar/colorls/actions/workflows/ruby.yml/badge.svg)](https://github.com/toanvippro) 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](https://github.com/toanvippro) 
+[![Gem Version](https://badge.fury.io/rb/colorls.svg)]() 
+[![CI](https://github.com/athityakumar/colorls/actions/workflows/ruby.yml/badge.svg)]() 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)]() 
 
 ```java
 class Toanvippro{
