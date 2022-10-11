@@ -1,5 +1,6 @@
 - 👋 Hello !! I'm Do Khanh Toan! 🙏🏻
 - 👨‍🎓 I'm studying information systems at [Can Tho University](https://www.ctu.edu.vn/)
+[![Gem Version](https://badge.fury.io/rb/colorls.svg)](https://badge.fury.io/rb/colorls)
 ```java
 class Toanvippro{
   class: number; school: string; pronouns:string[]; hobbies: string[]; 
