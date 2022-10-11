@@ -1,6 +1,10 @@
 - 👋 Hello !! I'm Do Khanh Toan! 🙏🏻
 - 👨‍🎓 I'm studying information systems at [Can Tho University](https://www.ctu.edu.vn/)
-[![Gem Version](https://badge.fury.io/rb/colorls.svg)](https://badge.fury.io/rb/colorls)
+
+[![Gem Version](https://badge.fury.io/rb/colorls.svg)](https://badge.fury.io/rb/colorls) 
+[![CI](https://github.com/athityakumar/colorls/actions/workflows/ruby.yml/badge.svg)](https://github.com/toanvippro/readme.md) 
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=shields)](http://makeapullrequest.com) 
+
 ```java
 class Toanvippro{
   class: number; school: string; pronouns:string[]; hobbies: string[]; 
@@ -26,3 +30,6 @@ class Skills extends Toanvippro {
 }
 
 ```
+[![forthebadge](http://forthebadge.com/images/badges/made-with-ruby.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+
