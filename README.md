@@ -17,7 +17,7 @@ src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908
 
 ```java
 class Toanvippro{
-  class: number; school: string; pronouns:string[]; hobbies: string[]; 
+  class: string; school: string; pronouns:string[]; hobbies: string[]; 
   constructor() {
     this.class = "DI2095A2";
     this.school =  "CTU";
