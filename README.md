@@ -17,13 +17,11 @@ src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908
 
 ```java
 class ToanDoKhanh{
-  class: string;
   school: string;
   pronouns:string[];
   hobbies: string[];
   programming_languages: string[];
   constructor() {
-    this.class = "DI2095A2";
     this.school =  "CTU";
     this.pronouns =  ["he/him"];
     this.hobbies = ["programming", "music", "badminton"];
