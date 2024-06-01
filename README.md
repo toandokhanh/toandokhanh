@@ -25,7 +25,7 @@ class ToanDoKhanh{
     this.school =  "CTU";
     this.pronouns =  ["he/him"];
     this.hobbies = ["programming", "music", "badminton"];
-    this.programming_languages = ["Python", "Javascript", "TypeScript", "Java"]
+    this.programming_languages = ["Python", "Javascript", "TypeScript", "Java", "Ruby", "Php"]
   }
 }
 
